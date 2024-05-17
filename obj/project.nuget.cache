@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dok982mXPLS45MRMzsb8sZZCB7Goa4pNOzgH4e0GcVO8+n42ujxV5NgRO4sr2qnUVFXrxUOpns7m/nLAq/MUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kizil\\source\\repos\\pc-api-bulk-edit\\pc-api-bulk-edit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
